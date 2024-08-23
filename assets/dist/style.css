@@ -44,7 +44,7 @@ button,input,optgroup,select,textarea{
     --tw-bg-opacity: 1;
 
 
-    background-image: url('https://cdn.xyzo.top/bg.jpg'); 
+    background-image: url('背景图片url'); 
     /* 添加以下属性 */
     background-size: cover;      /* 背景图片覆盖整个元素 */
     background-attachment: fixed; /* 背景图片固定，不随页面滚动 */
